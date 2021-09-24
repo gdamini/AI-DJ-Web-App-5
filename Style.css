@@ -1,0 +1,21 @@
+body{
+    background-size: cover;
+}
+
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin:0px;
+    color: white;
+}
+
+.note{
+    font-size: 15px;
+    color: darkblue;
+}
+
+canvas{
+    border: 5px white;
+    border-style: groove;
+    border-radius: 20px;
+}
